@@ -13,7 +13,7 @@ Lớp:252_71ITDS30203_0301
 
 -Jupyter Notebook / Python script
 
-#Cách hoạt động
+# Cách hoạt động
 
 -Dữ liệu đầu vào được đọc từ file dulieuxettuyendaihoc.csv
 
@@ -37,7 +37,7 @@ Lớp:252_71ITDS30203_0301
 
 -Lưu dữ liệu sau xử lý ra file processed_dulieuxettuyendaihoc.csv
 
-#Kết quả
+# Kết quả
 
 -Dữ liệu sau xử lý không còn giá trị thiếu
 
